@@ -1,0 +1,8 @@
+{
+  "domain": "binance",
+  "name": "Binance course sensors",
+  "documentation": "https://github.com/tweaker/binance",
+  "dependencies": [],
+  "codeowners": ["@tweaker"],
+  "requirements": ["python-binance==0.7.1"]
+}
